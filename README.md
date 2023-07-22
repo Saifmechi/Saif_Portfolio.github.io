@@ -31,8 +31,8 @@
 ✅ Transforming Wells Files: I led a crucial role in transforming wells files and related information from paper documents into a structured and organized database (Mysql).<br>
 ✅ Power BI Dashboard: I took charge of creating visually appealing and interactive Power BI dashboards. This dashboard provided comprehensive control and visualization capabilities for monitoring wells.🔍 Exciting Opportunity as Data Analyst Intern at Sonede Tunisia! 📊💼 <br>
 ✅ Transforming Wells Files: I led a crucial role in transforming wells files and related information from paper documents into a structured and organized database (Mysql). <br>
-✅ Power BI Dashboard: I took charge of creating visually appealing and interactive Power BI dashboards. This dashboard provided comprehensive control and visualization capabilities for monitoring wells.
-Skills: Databases · Statistical Data Analysis · Microsoft Power BI
+✅ Power BI Dashboard: I took charge of creating visually appealing and interactive Power BI dashboards. This dashboard provided comprehensive control and visualization capabilities for monitoring wells.<br>
+**Skills: Databases · Statistical Data Analysis · Microsoft Power BI**
 <h3 align="left">Languages and Ai Tools:</h3>
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
