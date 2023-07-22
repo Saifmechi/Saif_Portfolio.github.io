@@ -9,7 +9,7 @@
 
 - 📫 How to reach me <a href="mailto:seif.mechi@essai.ucar.tn">**seif.mechi@essai.ucar.tn**</a>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/saif-mechi-415aab1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-mechi" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 </a>
 <a href="https://www.facebook.com/saif.mechi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghaith mechi" height="30" width="40" /></a>
 </p>
-<h3 align="left">Work Experience:</h3>
+<h2 align="left">Work Experience:</h2>
 
 **Data Scientist Intern @<a href="https://www.caustaza.com" target="blank">Caustaza LTD
 </a>(_June 2023 - Aout 2023_)**
@@ -51,18 +51,18 @@ During this amazing intership I work on:
      provided comprehensive control and visualization capabilities for monitoring wells.<br>
 **Skills:** Databases · Statistical Data Analysis · Microsoft Power BI.
 
-<h3 align="left">Certifications:</h3>
+<h2 align="left">Certifications:</h2>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/ZLYUQMRRDDJF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n" target="blank">Practical Data Science on the AWS Cloud </a>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/WHAHVU8RJL7Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n" target="blank">Machine Learning Specialisation </a>
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/ZLYUQMRRDDJF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n" target="blank">Practical Data Science on the AWS Cloud </a>
+<a href="https://www.datacamp.com/statement-of-accomplishment/track/13a07d020b9ca71c2b335b4079ffbfe21652e137" target="blank">Deep Learning with Keras </a>
 
 <a href="[https://www.caustaza.com](https://www.coursera.org/account/accomplishments/specialization/ZLYUQMRRDDJF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)" target="blank">Practical Data Science on the AWS Cloud </a>
 
 
-<h3 align="left">Languages and Ai Tools:</h3>
+<h2 align="left">Languages and Ai Tools:</h2>
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
