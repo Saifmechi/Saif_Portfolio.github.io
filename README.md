@@ -59,7 +59,7 @@ During this amazing intership I work on:
 
 <a href="https://www.datacamp.com/statement-of-accomplishment/track/13a07d020b9ca71c2b335b4079ffbfe21652e137" target="blank">Deep Learning with Keras </a>
 
-<a href="[https://www.caustaza.com](https://www.coursera.org/account/accomplishments/specialization/ZLYUQMRRDDJF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)" target="blank">Practical Data Science on the AWS Cloud </a>
+<a href="https://www.datacamp.com/statement-of-accomplishment/track/fb971b6fcc8e9e8629cd1a17c8644f661040bdd4" target="blank">Machine Learning in python </a>
 
 
 <h2 align="left">Languages and Ai Tools:</h2>
