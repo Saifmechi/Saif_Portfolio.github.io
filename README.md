@@ -9,65 +9,13 @@
 
 - 📫 How to reach me <a href="mailto:seif.mechi@essai.ucar.tn">**seif.mechi@essai.ucar.tn**</a>
 
-<p align="left">
-  <!-- Icon 1: Portfolio -->
-  <a href="https://your-portfolio-website.com" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/png/512/2805/2805916.png" alt="portfolio" width="40" height="40"/>
-  </a>
-
-  <!-- Icon 2: GitHub -->
-  <a href="https://github.com/your-username" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/png/512/733/733553.png" alt="GitHub" width="40" height="40"/>
-  </a>
-
-  <!-- Icon 3: LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/png/512/1383/1383262.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-
-  <!-- Icon 4: Twitter -->
-  <a href="https://twitter.com/your-twitter-profile" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/png/512/1384/1384017.png" alt="Twitter" width="40" height="40"/>
-  </a>
-
-  <!-- Icon 5: Email -->
-  <a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/png/512/126/126553.png" alt="Email" width="40" height="40"/>
-  </a>
-
-  <!-- Icon 6: Blog -->
-  <a href="https://your-blog-website.com" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/png/512/1032/1032012.png" alt="Blog" width="40" height="40"/>
-  </a>
-
-  <!-- Icon 7: YouTube -->
-  <a href="https://www.youtube.com/channel/your-channel" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="YouTube" width="40" height="40"/>
-  </a>
-
-  <!-- Icon 8: Behance -->
-  <a href="https://www.behance.net/your-behance-profile" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/png/512/174/174883.png" alt="Behance" width="40" height="40"/>
-  </a>
-
-  <!-- Icon 9: Medium -->
-  <a href="https://medium.com/@your-medium-profile" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/png/512/2111/2111505.png" alt="Medium" width="40" height="40"/>
-  </a>
-
-  <!-- Icon 10: Dev.to -->
-  <a href="https://dev.to/your-devto-profile" target="_blank" rel="noreferrer">
-    <img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" alt="Dev.to" width="40" height="40"/>
-  </a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/saif-mechi-415aab1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-mechi" height="30" width="40" /></a>
 <a href="https://kaggle.com/seifmechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ghaithmechi" height="30" width="40" /></a>
-<a href="https://your-portfolio-website.com" target="_blank" rel="noreferrer">
-  <img src="https://image.flaticon.com/icons/png/512/2805/2805916.png" alt="portfolio" width="40" height="40"/>
+<a href="https://app.datacamp.com/portfolio/SaifMechi" target="_blank" rel="noreferrer">
+  <img src="https://www.flaticon.com/free-icon/portfolio_8644474?term=web+portfolio&page=1&position=6&origin=search&related_id=8644474" alt="portfolio" width="40" height="40"/>
 </a>
 <a href="https://www.facebook.com/saif.mechi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghaith mechi" height="30" width="40" /></a>
 </p>
