@@ -24,11 +24,14 @@
 **Data Scientist Intern @Caustaza LTD (_June 2023 - Aout 2023_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- 
 **Data Analyst Intern @Sonede Tunisia (_July 2022 - Aout 2022_)**
   🔍 Exciting Opportunity as Data Analyst Intern at Sonede Tunisia! 📊💼
 
 ✅ Transforming Wells Files: I led a crucial role in transforming wells files and related information from paper documents into a structured and organized database (Mysql).
-✅ Power BI Dashboard: I took charge of creating visually appealing and interactive Power BI dashboards. This dashboard provided comprehensive control and visualization capabilities for monitoring wells.🔍 Exciting Opportunity as Data Analyst Intern at Sonede Tunisia! 📊💼 ✅ Transforming Wells Files: I led a crucial role in transforming wells files and related information from paper documents into a structured and organized database (Mysql). ✅ Power BI Dashboard: I took charge of creating visually appealing and interactive Power BI dashboards. This dashboard provided comprehensive control and visualization capabilities for monitoring wells.
+✅ Power BI Dashboard: I took charge of creating visually appealing and interactive Power BI dashboards. This dashboard provided comprehensive control and visualization capabilities for monitoring wells.🔍 Exciting Opportunity as Data Analyst Intern at Sonede Tunisia! 📊💼 ✅ Transforming Wells Files: I led a crucial role in transforming wells files and related information from paper documents into a structured and organized database (Mysql). 
+
+✅ Power BI Dashboard: I took charge of creating visually appealing and interactive Power BI dashboards. This dashboard provided comprehensive control and visualization capabilities for monitoring wells.
 Skills: Databases · Statistical Data Analysis · Microsoft Power BI
 <h3 align="left">Languages and Ai Tools:</h3>
 <p align="left">
