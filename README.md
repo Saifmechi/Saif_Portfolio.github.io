@@ -12,15 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="sagemaker" width="40" height="40"/>
-</a>
-<a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="sagemaker" width="40" height="40"/>
-</a>
-<a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="sagemaker" width="40" height="40"/>
-</a>
+
 
 
 <a href="https://www.linkedin.com/in/saif-mechi-415aab1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-mechi" height="30" width="40" /></a>
