@@ -49,7 +49,19 @@ During this amazing intership I work on:
      into a structured and organized database (Mysql).<br>
   ✅ Power BI Dashboard: I took charge of creating visually appealing and interactive Power BI dashboards. This dashboard 
      provided comprehensive control and visualization capabilities for monitoring wells.<br>
-**Skills:** Databases · Statistical Data Analysis · Microsoft Power BI
+**Skills:** Databases · Statistical Data Analysis · Microsoft Power BI.
+
+<h3 align="left">Certifications:</h3>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/ZLYUQMRRDDJF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n" target="blank">Practical Data Science on the AWS Cloud </a>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/WHAHVU8RJL7Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n" target="blank">Machine Learning Specialisation </a>
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/ZLYUQMRRDDJF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n" target="blank">Practical Data Science on the AWS Cloud </a>
+
+<a href="[https://www.caustaza.com](https://www.coursera.org/account/accomplishments/specialization/ZLYUQMRRDDJF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)" target="blank">Practical Data Science on the AWS Cloud </a>
+
+
 <h3 align="left">Languages and Ai Tools:</h3>
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
