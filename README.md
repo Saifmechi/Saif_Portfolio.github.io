@@ -23,8 +23,8 @@
 
 **Data Scientist Intern @Caustaza LTD (_June 2023 - Aout 2023_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-- 
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses.
+  
 **Data Analyst Intern @Sonede Tunisia (_July 2022 - Aout 2022_)** <br>
   🔍 Exciting Opportunity as Data Analyst Intern at Sonede Tunisia! 📊💼
 
