@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gm-07&label=Profile%20views&color=0e75b6&style=flat" alt="gm-07" /> </p>
 
-- 🌱 I’m currently learning **MLOps**
-
+- 🌱 I’m currently learning **MLOps** on the **AWS** Platform.
 - 💬 Ask me about **Python, ML, Deep Learning, Natural Language Processing**
 
 - 📫 How to reach me <a href="mailto:seif.mechi@essai.ucar.tn">**seif.mechi@essai.ucar.tn**</a>
