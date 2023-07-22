@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gm-07&label=Profile%20views&color=0e75b6&style=flat" alt="gm-07" /> </p>
 
 - 🌱 I’m currently learning **MLOps** on the **AWS** Platform.
-- 💬 Ask me about **Python, ML, Deep Learning, Natural Language Processing**
+- 💬 Ask me about **Python, ML, Deep Learning, NLP,Time Series**
 
 - 📫 How to reach me <a href="mailto:seif.mechi@essai.ucar.tn">**seif.mechi@essai.ucar.tn**</a>
 
@@ -87,8 +87,6 @@ During this amazing intership I work on:
       <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  </p> 
-
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
   </a>
