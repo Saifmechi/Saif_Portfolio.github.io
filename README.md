@@ -8,7 +8,8 @@
 
 - 💬 Ask me about **ML, , Deep Learning, Computer Vision**
 
-- 📫 How to reach me **seif.mechi@essai.ucar.tn**
+- 📫 How to reach me <a href="mailto:seif.mechi@essai.ucar.tn">**seif.mechi@essai.ucar.tn**</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
