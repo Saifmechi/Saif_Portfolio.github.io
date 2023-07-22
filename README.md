@@ -21,7 +21,8 @@
 </p>
 <h3 align="left">Work Experience:</h3>
 
-**Data Scientist Intern @Caustaza LTD (_June 2023 - Aout 2023_)**
+**Data Scientist Intern @<a href="https://www.linkedin.com/company/caustaza/mycompany/verification/" target="blank">Caustaza LTD
+</a>(_June 2023 - Aout 2023_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses.
   
