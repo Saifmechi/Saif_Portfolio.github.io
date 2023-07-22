@@ -25,7 +25,9 @@
 </a>(_June 2023 - Aout 2023_)**</strong>
 
 Exciting Experience as Data Intern at Caustaza Ltd! 📈💼
+
 During this amazing intership I work on:
+
 ✅ Financial Solution Dashboard: I played a pivotal role in developing a sophisticated financial solution dashboard.I efficiently organized and presented financial data, enabling stakeholders to gain comprehensive insights into the company's financial performance.
 
 ✅ Sentiment Analysis Model: I developed a robust sentiment analysis model,which was capable of accurately predicting the sentiment of text data, particularly comments from Facebook. Additionally, I implemented Selenium scripts to automate the extraction of comments from Facebook and seamlessly fed them into the sentiment analysis model for real-time predictions.
