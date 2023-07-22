@@ -21,8 +21,9 @@
 </p>
 <h3 align="left">Work Experience:</h3>
 
-**Data Scientist Intern @<a href="https://www.caustaza.com" target="blank">Caustaza LTD
-</a>(_June 2023 - Aout 2023_)**
+<strong>**Data Scientist Intern @<a href="https://www.caustaza.com" target="blank">Caustaza LTD
+</a>(_June 2023 - Aout 2023_)**</strong>
+
 Exciting Experience as Data Intern at Caustaza Ltd! 📈💼
 During this amazing intership I work on:
 ✅ Financial Solution Dashboard: I played a pivotal role in developing a sophisticated financial solution dashboard.I efficiently organized and presented financial data, enabling stakeholders to gain comprehensive insights into the company's financial performance.
