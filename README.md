@@ -29,8 +29,8 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
   </a>
-    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/seleniumhq/selenium-icon.svg" alt="selenium" width="40" height="40"/>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/>
   </a>
 </p>
 <p align="left">
