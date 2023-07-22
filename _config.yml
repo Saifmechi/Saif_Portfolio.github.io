@@ -3,4 +3,5 @@ title: Mechi Saif
 logo: /assets/img/saif_photo.png
 description: Profile Photo
 show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
