@@ -23,8 +23,15 @@
 
 **Data Scientist Intern @<a href="https://www.caustaza.com" target="blank">Caustaza LTD
 </a>(_June 2023 - Aout 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses.
+Exciting Experience as Data Intern at Caustaza Ltd! 📈💼
+During this amazing intership I work on:
+✅ Financial Solution Dashboard: I played a pivotal role in developing a sophisticated financial solution dashboard.I efficiently organized and presented financial data, enabling stakeholders to gain comprehensive insights into the company's financial performance.
+
+✅ Sentiment Analysis Model: I developed a robust sentiment analysis model,which was capable of accurately predicting the sentiment of text data, particularly comments from Facebook. Additionally, I implemented Selenium scripts to automate the extraction of comments from Facebook and seamlessly fed them into the sentiment analysis model for real-time predictions.
+
+✅ Glassdoor Data Extraction: As part of the data team, I was entrusted with the task of creating a script to extract concurrent company information from Glassdoor. The script efficiently gathered relevant data, contributing to a comprehensive understanding of market trends and competitors' activities.
+
+**Skills: Statistical Data Analysis · Django Web Development · PostgreSQL · Deep Learning (Sentiment Analysis) · Web Scraping with Selenium · Arabic NLP (Arabert)**
   
 **Data Analyst Intern @<a href="https://www.sonede.com.tn" target="blank">Sonede Tunisia</a> (_July 2022 - Aout 2022_)** <br>
   🔍 Exciting Opportunity as Data Analyst Intern at Sonede Tunisia! 📊💼
