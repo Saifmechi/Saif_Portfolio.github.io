@@ -16,8 +16,9 @@
 <a href="https://www.linkedin.com/in/saif-mechi-415aab1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-mechi" height="30" width="40" /></a>
 <a href="https://kaggle.com/seifmechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ghaithmechi" height="30" width="40" /></a>
 <a href="https://www.datacamp.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.pinclipart.com/picdir/middle/197-1975353_data-science-icon-png-clipart.png" alt="datascience" width="40" height="40"/>
+  <img src="https://via.placeholder.com/40x40" alt="datacamp" width="40" height="40"/>
 </a>
+
 
 <a href="https://www.facebook.com/saif.mechi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghaith mechi" height="30" width="40" /></a>
 </p>
