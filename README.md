@@ -21,12 +21,12 @@
 </p>
 <h3 align="left">Work Experience:</h3>
 
-**Data Scientist Intern @<a href="https://www.linkedin.com/company/caustaza/mycompany/verification/" target="blank">Caustaza LTD
+**Data Scientist Intern @<a href="https://www.caustaza.com" target="blank">Caustaza LTD
 </a>(_June 2023 - Aout 2023_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses.
   
-**Data Analyst Intern @Sonede Tunisia (_July 2022 - Aout 2022_)** <br>
+**Data Analyst Intern @<a href="https://www.sonede.com.tn" target="blank">Sonede Tunisia</a> (_July 2022 - Aout 2022_)** <br>
   🔍 Exciting Opportunity as Data Analyst Intern at Sonede Tunisia! 📊💼
 
 ✅ Transforming Wells Files: I led a crucial role in transforming wells files and related information from paper documents into a structured and organized database (Mysql).<br>
