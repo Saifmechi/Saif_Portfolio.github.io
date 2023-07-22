@@ -17,6 +17,13 @@
 <a href="https://kaggle.com/seifmechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ghaithmechi" height="30" width="40" /></a>
   <a href="https://app.datacamp.com/portfolio/SaifMechi" target="_blank" rel="noreferrer">
     <img align="center" src="https://avatars0.githubusercontent.com/u/54740504?s=200&v=4" alt="saif-mechi" height="40" width="40" />
+  </a><a href="https://www.datacamp.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/datacamp/datacamp-icon.svg" alt="datacamp" width="40" height="40"/>
+</a>
+<a href="https://www.datacamp.com/" target="_blank" rel="noreferrer">
+  <img src="https://pbs.twimg.com/profile_images/1237464910843298816/7fXr-ON2_400x400.jpg" alt="datacamp" width="40" height="40"/>
+</a>
+
   </a>
   </a>
 <a href="https://www.facebook.com/saif.mechi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghaith mechi" height="30" width="40" /></a>
