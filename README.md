@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MLOps**
 
-- 💬 Ask me about **ML, , Deep Learning, Computer Vision**
+- 💬 Ask me about **Python, ML, Deep Learning, Natural Language Processing**
 
 - 📫 How to reach me <a href="mailto:seif.mechi@essai.ucar.tn">**seif.mechi@essai.ucar.tn**</a>
 
