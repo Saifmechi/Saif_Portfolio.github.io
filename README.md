@@ -74,11 +74,9 @@ Here are some of the repositories I've been working on:
 ### :MasterBuilds: [Spring Boot App](https://github.com/Saifmechi/Spring-Boot-App)
 💻 This repository showcases my Spring Boot application, which includes RESTful APIs, database integration, user authentication, chat app, and data manipulation.
 
-🔧 Skills: Spring Boot, Java, RESTful APIs, Database Integration
+🔧 Skills: Spring Boot, Java,Spring Security ,JWT,Spring Data JPA, RESTful APIs, Database Integration
 
-Feel free to explore these repositories and check out the code and project details!
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 <h2 align="left">Certifications:</h2>
 
