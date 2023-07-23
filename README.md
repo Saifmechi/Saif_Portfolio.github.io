@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mechi Saif</h1>
 <h3 align="center">AN AI Engineer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=FIxyQNoo&id=060D66CB169ED7ACE596BDF2D2A0ADC7EF91E072&thid=OIP.FIxyQNooEdyB-FHSlv1lvQHaEq&mediaurl=https%3a%2f%2fstrategyb2b.com%2fwp-content%2fuploads%2f2018%2f07%2fAI-animated-7.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.148c7240da2811dc81f851d296fd65bd%3frik%3dcuCR78etoNLyvQ%26pid%3dImgRaw%26r%3d0&exph=315&expw=500&q=animated+ai+image&simid=608008352774968643&FORM=IRPRST&ck=0546295A8CE8755A879425699DC32D21&selectedIndex=4">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gm-07&label=Profile%20views&color=0e75b6&style=flat" alt="gm-07" /> </p>
 
