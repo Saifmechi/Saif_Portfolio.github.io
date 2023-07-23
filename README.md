@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mechi Saif</h1>
 <h3 align="center">AN AI Engineer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=FIxyQNoo&id=060D66CB169ED7ACE596BDF2D2A0ADC7EF91E072&thid=OIP.FIxyQNooEdyB-FHSlv1lvQHaEq&mediaurl=https%3a%2f%2fstrategyb2b.com%2fwp-content%2fuploads%2f2018%2f07%2fAI-animated-7.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.148c7240da2811dc81f851d296fd65bd%3frik%3dcuCR78etoNLyvQ%26pid%3dImgRaw%26r%3d0&exph=315&expw=500&q=animated+ai+image&simid=608008352774968643&FORM=IRPRST&ck=0546295A8CE8755A879425699DC32D21&selectedIndex=4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gm-07&label=Profile%20views&color=0e75b6&style=flat" alt="gm-07" /> </p>
 
@@ -12,7 +12,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/saif-mechi-415aab1ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-mechi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saif-mechi-415aab1ba/" target="bhttps://www.bing.com/images/search?view=detailV2&ccid=FIxyQNoo&id=060D66CB169ED7ACE596BDF2D2A0ADC7EF91E072&thid=OIP.FIxyQNooEdyB-FHSlv1lvQHaEq&mediaurl=https%3a%2f%2fstrategyb2b.com%2fwp-content%2fuploads%2f2018%2f07%2fAI-animated-7.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.148c7240da2811dc81f851d296fd65bd%3frik%3dcuCR78etoNLyvQ%26pid%3dImgRaw%26r%3d0&exph=315&expw=500&q=animated+ai+image&simid=608008352774968643&FORM=IRPRST&ck=0546295A8CE8755A879425699DC32D21&selectedIndex=4lank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-mechi" height="30" width="40" /></a>
 <a href="https://kaggle.com/seifmechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ghaithmechi" height="30" width="40" /></a>
 <a href="https://app.datacamp.com/portfolio/SaifMechi" target="_blank" rel="noreferrer">
   <img src="https://www.flaticon.com/free-icon/portfolio_8644474?term=web+portfolio&page=1&position=6&origin=search&related_id=8644474" alt="portfolio" width="40" height="40"/>
@@ -109,8 +109,8 @@ During this amazing intership I work on:
 </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   </p>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gm-07&show_icons=true&locale=en&layout=compact" alt="gm-07" /></p>
+[<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gm-07&show_icons=true&locale=en&layout=compact" alt="gm-07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gm-07&show_icons=true&locale=en" alt="gm-07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gm-07&" alt="gm-07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gm-07&" alt="gm-07" /></p>](https://saifmechi.github.io/Saif_Portfolio.github.io/)https://saifmechi.github.io/Saif_Portfolio.github.io/
