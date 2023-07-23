@@ -52,6 +52,8 @@ During this amazing intership I work on:
      provided comprehensive control and visualization capabilities for monitoring wells.<br>
 **Skills:** Databases · Statistical Data Analysis · Microsoft Power BI.
 
+<h2 align="left">Projects:</h2>
+
 <h2 align="left">Certifications:</h2>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/ZLYUQMRRDDJF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n" target="blank">Practical Data Science on the AWS Cloud </a>
