@@ -59,20 +59,20 @@ Here are some of the repositories I've been working on:
 ### :books: [Natural Language Processing](https://github.com/Saifmechi/Natural-Language-Processing)
 📚 This repository contains my projects related to Natural Language Processing. It includes text classification, sentiment analysis, named entity recognition, and topic modeling using NLP techniques.
 
-🔧 Skills: NLP, Python, Machine Learning, Text Analysis
+🔧 Skills: NLP, Python,Deep Learning, BERT, Text Analysis
 
-### :chart_with_upwards_trend: [Credit Risk Prediction](https://github.com/Saifmechi/Credit-Risk-Prediction-Machine-Learning)
-📈 In this repository, I've implemented machine learning models to predict credit risk for banks and financial institutions. The project includes data preprocessing, model training, and evaluation.
+### :banking credit risk prediction: [Credit Risk Prediction](https://github.com/Saifmechi/Credit-Risk-Prediction-Machine-Learning)
+📈 In this repository, I've implemented machine learning models to predict credit risk for banks and financial institutions. The project includes data preprocessing, EDA,feature engineering, model training and tuning, evaluation and explaination.
 
 🔧 Skills: Machine Learning, Data Analysis, Python, Credit Risk Assessment
 
-### :earth_americas: [Python Web Scraping](https://github.com/Saifmechi/Python-Web-Scraping)
+### :Data Gathering: [Python Web Scraping](https://github.com/Saifmechi/Python-Web-Scraping)
 🌐 This repository contains web scraping projects using Python. I've scraped data from various websites and APIs to gather valuable information for analysis.
 
-🔧 Skills: Web Scraping, Python, BeautifulSoup, Requests, Data Extraction
+🔧 Skills: Web Scraping, Python, BeautifulSoup, Requests,Selenuim, Data Extraction.
 
-### :computer: [Spring Boot App](https://github.com/Saifmechi/Spring-Boot-App)
-💻 This repository showcases my Spring Boot application, which includes RESTful APIs, database integration, user authentication, and data manipulation.
+### :MasterBuilds: [Spring Boot App](https://github.com/Saifmechi/Spring-Boot-App)
+💻 This repository showcases my Spring Boot application, which includes RESTful APIs, database integration, user authentication, chat app, and data manipulation.
 
 🔧 Skills: Spring Boot, Java, RESTful APIs, Database Integration
 
