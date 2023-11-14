@@ -26,6 +26,7 @@
 </a>(November 2023 - January 2024)**
 
 In this amazing intership I am working on:
+
 ✅Python Package Development:My primary task involves comprehending a research paper on determining the optimal number of clusters using a stability measure based on the Rand Index and translating it’s concepts into a Python package. I'm actively engaged in designing,creating, and testing the package.
 
 Skills: Python, OOP , Unit testing ,Software design .
